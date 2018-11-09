@@ -1,4 +1,4 @@
-@extends('resources.views.layouts.master')
+@extends('layouts.master')
 
 @section('title','Hello')
 
